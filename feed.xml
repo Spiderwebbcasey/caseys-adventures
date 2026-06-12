@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Casey&#x27;s Adventures</title>
-    <link href="https://caseys-adventures.spiderwebbcasey.workers.dev/feed.xml" rel="self" />
-    <link href="https://caseys-adventures.spiderwebbcasey.workers.dev" />
+    <link href="https://blog.spiderwebb.net/feed.xml" rel="self" />
+    <link href="https://blog.spiderwebb.net" />
     <updated>2026-06-12T20:16:05+10:00</updated>
     <author>
         <name>Casey Webb</name>
     </author>
-    <id>https://caseys-adventures.spiderwebbcasey.workers.dev</id>
+    <id>https://blog.spiderwebb.net</id>
 
     <entry>
         <title>Hello World</title>
         <author>
             <name>Casey Webb</name>
         </author>
-        <link href="https://caseys-adventures.spiderwebbcasey.workers.dev/hello-world.html"/>
-        <id>https://caseys-adventures.spiderwebbcasey.workers.dev/hello-world.html</id>
+        <link href="https://blog.spiderwebb.net/hello-world.html"/>
+        <id>https://blog.spiderwebb.net/hello-world.html</id>
 
         <updated>2026-06-12T20:16:05+10:00</updated>
             <summary type="html">
@@ -34,8 +34,8 @@
         <author>
             <name>Casey Webb</name>
         </author>
-        <link href="https://caseys-adventures.spiderwebbcasey.workers.dev/this-is-a-test-im-testing-my-new-blog.html"/>
-        <id>https://caseys-adventures.spiderwebbcasey.workers.dev/this-is-a-test-im-testing-my-new-blog.html</id>
+        <link href="https://blog.spiderwebb.net/this-is-a-test-im-testing-my-new-blog.html"/>
+        <id>https://blog.spiderwebb.net/this-is-a-test-im-testing-my-new-blog.html</id>
 
         <updated>2026-06-10T20:51:24+10:00</updated>
             <summary type="html">
